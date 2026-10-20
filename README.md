@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **QubitShield** · Team ID `VTU-QFF-HC-0143` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#QubitShield)
+[⬆ Back to Top](#qubitshield)
 
 </div>
